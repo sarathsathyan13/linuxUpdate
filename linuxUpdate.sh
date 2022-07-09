@@ -1,3 +1,4 @@
+# author : sarath p s
 # !/bin/bash
 
 ping 8.8.8.8 -c 3
