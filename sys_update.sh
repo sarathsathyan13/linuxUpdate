@@ -1,4 +1,3 @@
-#system update · SH
 #!/usr/bin/env bash
 #
 # system-update.sh — Advanced Linux update/upgrade automation
